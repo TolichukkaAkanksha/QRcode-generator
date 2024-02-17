@@ -1,3 +1,3 @@
-Go to the output----><a href="https://tolichukkaakanksha.github.io/QRcode-generator/">visit</a><br>
+
 QR Code Generator makes it simple to create, manage, and track your QR Codes in one place so you can use them to their full potential.While they may look simple, QR codes are capable of storing lots of data.
 A QR code is a type of barcode that can be read easily by a digital device and which stores information as a series of pixels in a square-shaped grid. QR codes are frequently used to track information about products in a supply chain and because many smartphones have built-in QR readers they are often used in marketing and advertising campaigns. More recently, they have played a key role in helping to trace coronavirus exposure and slow the spread of the virus.
